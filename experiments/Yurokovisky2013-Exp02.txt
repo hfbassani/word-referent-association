@@ -1,0 +1,68 @@
+#<map>							
+bed	bed						
+chair	chair						
+bowl	bowl						
+fork	fork						
+door	door						
+canister	canister						
+clock-1	clock						
+computer-1	computer						
+desk-1	desk						
+refrigerator-1	refrigerator						
+sofa-1	sofa						
+cooker-1	cooker						
+clock-2	goblet						
+computer-2	mat						
+desk-2	mixer						
+refrigerator-2	crib						
+sofa-2	blender						
+cooker-2	shaker						
+							
+#<train>							
+clock-2	canister	desk-2	cooker-1	clock-2	canister	desk-2	cooker-1
+bowl	clock-2	fork	canister	bowl	clock-1	fork	canister
+cooker-2	refrigerator-1	bowl	clock-1	cooker-2	refrigerator-1	bowl	clock-1
+refrigerator-2	bowl	cooker-2	refrigerator-2	refrigerator-2	bowl	cooker-2	refrigerator-2
+desk-2	cooker-2	door	clock-1	desk-2	cooker-2	door	clock-1
+door	desk-1	sofa-2	bed	door	desk-1	sofa-2	bed
+clock-1	sofa-2	computer-1	desk-1	clock-1	sofa-2	computer-1	desk-1
+sofa-1	computer-2	chair	desk-2	sofa-1	computer-2	chair	desk-2
+computer-2	door	refrigerator-1	sofa-2	computer-2	door	refrigerator-1	sofa-2
+cooker-1	sofa-1	canister	door	cooker-1	sofa-1	canister	door
+sofa-2	fork	clock-1	computer-2	sofa-2	fork	clock-1	computer-2
+desk-1	refrigerator-2	clock-2	chair	desk-1	refrigerator-2	clock-2	chair
+canister	desk-2	cooker-1	fork	canister	desk-2	cooker-1	fork
+bed	chair	refrigerator-2	cooker-2	bed	chair	refrigerator-2	cooker-2
+refrigerator-1	bowl	desk-1	computer-1	refrigerator-1	bowl	desk-1	computer-1
+fork	bed	computer-2	sofa-1	fork	bed	computer-2	sofa-1
+computer-1	cooker-1	bed	refrigerator-1	computer-1	cooker-1	bed	refrigerator-1
+chair	computer-1	sofa-1	clock-2	chair	computer-1	sofa-1	clock-2
+computer-1	door	bed	refrigerator-2	computer-1	door	bed	refrigerator-2
+bowl	desk-1	clock-1	canister	bowl	desk-1	clock-1	canister
+computer-2	refrigerator-1	door	sofa-1	computer-2	refrigerator-1	door	sofa-1
+sofa-1	cooker-1	bowl	cooker-2	sofa-1	cooker-1	bowl	cooker-2
+bed	refrigerator-2	desk-1	fork	bed	refrigerator-2	desk-1	fork
+chair	clock-2	computer-1	cooker-1	chair	clock-2	computer-1	cooker-1
+sofa-2	fork	clock-2	desk-2	sofa-2	fork	clock-2	desk-2
+canister	clock-1	refrigerator-1	chair	canister	clock-1	refrigerator-1	chair
+cooker-2	desk-2	computer-2	sofa-2	cooker-2	desk-2	computer-2	sofa-2
+							
+#<test>							
+#<rank>							
+#<single>							
+bed	bed	chair	cooker-1	desk-2			
+chair	chair	bowl	computer-1	cooker-2			
+bowl	bowl	fork	clock-1	clock-2			
+fork	fork	door	refrigerator-1	computer-2			
+door	door	canister	sofa-1	refrigerator-2			
+canister	canister	bed	desk-1	sofa-2			
+							
+#<double>							
+clock	clock-1	clock-2	bed	cooker-2			
+computer	computer-1	computer-2	chair	refrigerator-2			
+desk	desk-1	desk-2	bowl	computer-1			
+refrigerator	refrigerator-1	refrigerator-2	fork	clock-1			
+sofa	sofa-1	sofa-2	door	desk-1			
+cooker	cooker-1	cooker-2	canister	sofa-2			
+
+#<print-results>

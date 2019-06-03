@@ -1,0 +1,171 @@
+knife	cooker		
+clock	telephone		
+dresser	armoire		
+sofa	canister		
+bed	computer		
+cooker	clock		
+door	clock		
+bowl	fork		
+refrigerator	telephone		
+armoire	refrigerator		
+fork	desk		
+fork	chair		
+clock	sofa		
+cooker	armoire		
+knife	door		
+computer	spoon		
+door	refrigerator		
+chair	desk		
+cooker	knife		
+desk	bowl		
+refrigerator	canister		
+fork	dresser		
+canister	cup		
+sofa	fork		
+spoon	door		
+door	cooker		
+bed	sofa		
+armoire	bed		
+cup	spoon		
+telephone	dresser		
+cup	armoire		
+bed	dresser		
+bowl	computer		
+desk	refrigerator		
+computer	knife		
+chair	cooker		
+canister	bowl		
+dresser	telephone		
+telephone	door		
+canister	cup		
+sofa	bowl		
+knife	spoon		
+spoon	cup		
+cup	chair		
+dresser	sofa		
+armoire	fork		
+bowl	bed		
+desk	knife		
+telephone	desk		
+computer	bed		
+spoon	clock		
+refrigerator	computer		
+chair	chair		
+clock	canister		
+dresser	sofa	chair	
+dresser	refrigerator	bowl	
+bed	cup	clock	
+door	telephone	refrigerator	
+spoon	clock	fork	
+clock	fork	cup	
+armoire	desk	knife	
+bowl	telephone	spoon	
+sofa	bowl	door	
+cup	knife	bed	
+sofa	desk	canister	
+armoire	canister	fork	
+bed	chair	sofa	
+telephone	armoire	cooker	
+bowl	sofa	telephone	
+chair	door	canister	
+door	armoire	desk	
+cooker	spoon	knife	
+cooker	computer	bed	
+computer	chair	cooker	
+fork	computer	bowl	
+clock	cooker	dresser	
+canister	clock	spoon	
+spoon	refrigerator	armoire	
+fork	cooker	door	
+canister	knife	sofa	
+desk	spoon	telephone	
+refrigerator	dresser	armoire	
+chair	bed	desk	
+desk	bowl	computer	
+refrigerator	bed	cup	
+telephone	fork	refrigerator	
+knife	cup	clock	
+computer	door	chair	
+cup	dresser	computer	
+knife	canister	dresser	
+bowl	fork	door	bed
+cooker	refrigerator	spoon	knife
+refrigerator	desk	knife	knife
+fork	chair	clock	knife
+chair	door	sofa	cup
+door	canister	chair	bowl
+sofa	refrigerator	cup	knife
+door	chair	computer	dresser
+canister	bed	sofa	dresser
+bed	door	cooker	cup
+desk	computer	telephone	spoon
+refrigerator	clock	telephone	telephone
+bed	bowl	desk	armoire
+bowl	canister	computer	spoon
+canister	bowl	refrigerator	spoon
+chair	canister	computer	armoire
+clock	cooker	armoire	dresser
+clock	sofa	cup	cup
+cooker	desk	spoon	telephone
+computer	cooker	armoire	knife
+fork	bed	clock	armoire
+fork	door	refrigerator	cup
+fork	bed	desk	dresser
+chair	bowl	desk	telephone
+fork	canister	cooker	telephone
+computer	sofa	dresser	spoon
+sofa	clock	dresser	armoire
+cat	snake		
+mouse	cat		
+bat	cheese		
+cheese	trap		
+snake	bat		
+trap	dog		
+dog	mouse		
+cheese	dog		
+trap	cat		
+cat	bat		
+dog	trap		
+mouse	cheese		
+bat	snake		
+snake	mouse		
+dog	bat		
+trap	mouse		
+bat	cat		
+cat	dog		
+snake	cheese		
+mouse	snake		
+cheese	trap		
+refrigerator			
+sofa			
+door			
+chair			
+desk			
+bed			
+computer			
+cooker			
+bowl			
+canister			
+clock			
+fork			
+notebook	monitor		
+speaker	keyboard		
+mouse	notebook		
+monitor	printer		
+computer	mouse		
+keyboard	speaker		
+printer	computer		
+mouse	notebook		
+keyboard	computer		
+notebook	keyboard		
+monitor	printer		
+speaker	monitor		
+printer	mouse		
+computer	speaker		
+keyboard	speaker		
+monitor	printer		
+computer	monitor		
+speaker	computer		
+mouse	notebook		
+notebook	keyboard		
+printer	mouse		

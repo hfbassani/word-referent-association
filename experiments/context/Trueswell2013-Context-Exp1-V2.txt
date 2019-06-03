@@ -1,0 +1,90 @@
+#<exp-name>					
+Trueswell2013-Exp1					
+					
+#<map>					
+bed	bed				
+chair	chair				
+bowl	bowl				
+fork	fork				
+door	door				
+canister	canister				
+clock	clock				
+computer	computer				
+desk	desk				
+refrigerator	refrigerator				
+sofa	sofa				
+cooker	cooker				
+					
+					
+#<reset>					
+#<sequence-test-context>					
+refrigerator	clock	bed	canister	sofa	refrigerator
+sofa	clock	canister	desk	door	sofa
+door	bowl	canister	cooker	clock	door
+chair	desk	door	computer	refrigerator	chair
+desk	refrigerator	bed	cooker	bowl	desk
+bed	fork	sofa	computer	chair	bed
+computer	desk	clock	refrigerator	chair	computer
+cooker	fork	door	computer	bed	cooker
+bowl	canister	door	computer	desk	bowl
+canister	bowl	chair	cooker	fork	canister
+clock	refrigerator	fork	bed	sofa	clock
+fork	cooker	chair	bowl	sofa	fork
+#<print-results>					
+					
+refrigerator	clock	bed	canister	sofa	refrigerator
+sofa	clock	canister	desk	door	sofa
+door	bowl	canister	cooker	clock	door
+chair	desk	door	computer	refrigerator	chair
+desk	refrigerator	bed	cooker	bowl	desk
+bed	fork	sofa	computer	chair	bed
+computer	desk	clock	refrigerator	chair	computer
+cooker	fork	door	computer	bed	cooker
+bowl	canister	door	computer	desk	bowl
+canister	bowl	chair	cooker	fork	canister
+clock	refrigerator	fork	bed	sofa	clock
+fork	cooker	chair	bowl	sofa	fork
+#<print-results>					
+					
+refrigerator	clock	bed	canister	sofa	refrigerator
+sofa	clock	canister	desk	door	sofa
+door	bowl	canister	cooker	clock	door
+chair	desk	door	computer	refrigerator	chair
+desk	refrigerator	bed	cooker	bowl	desk
+bed	fork	sofa	computer	chair	bed
+computer	desk	clock	refrigerator	chair	computer
+cooker	fork	door	computer	bed	cooker
+bowl	canister	door	computer	desk	bowl
+canister	bowl	chair	cooker	fork	canister
+clock	refrigerator	fork	bed	sofa	clock
+fork	cooker	chair	bowl	sofa	fork
+#<print-results>					
+					
+refrigerator	clock	bed	canister	sofa	refrigerator
+sofa	clock	canister	desk	door	sofa
+door	bowl	canister	cooker	clock	door
+chair	desk	door	computer	refrigerator	chair
+desk	refrigerator	bed	cooker	bowl	desk
+bed	fork	sofa	computer	chair	bed
+computer	desk	clock	refrigerator	chair	computer
+cooker	fork	door	computer	bed	cooker
+bowl	canister	door	computer	desk	bowl
+canister	bowl	chair	cooker	fork	canister
+clock	refrigerator	fork	bed	sofa	clock
+fork	cooker	chair	bowl	sofa	fork
+#<print-results>					
+					
+refrigerator	clock	bed	canister	sofa	refrigerator
+sofa	clock	canister	desk	door	sofa
+door	bowl	canister	cooker	clock	door
+chair	desk	door	computer	refrigerator	chair
+desk	refrigerator	bed	cooker	bowl	desk
+bed	fork	sofa	computer	chair	bed
+computer	desk	clock	refrigerator	chair	computer
+cooker	fork	door	computer	bed	cooker
+bowl	canister	door	computer	desk	bowl
+canister	bowl	chair	cooker	fork	canister
+clock	refrigerator	fork	bed	sofa	clock
+fork	cooker	chair	bowl	sofa	fork
+#<print-results>					
+

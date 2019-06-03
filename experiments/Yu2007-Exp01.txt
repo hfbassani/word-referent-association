@@ -1,0 +1,99 @@
+#<map>			
+bed	bed		
+chair	chair		
+bowl	bowl		
+fork	fork		
+door	door		
+canister	canister		
+clock	clock		
+computer	computer		
+desk	desk		
+refrigerator	refrigerator		
+sofa	sofa		
+cooker	cooker		
+spoon	spoon		
+telephone	telephone		
+knife	knife		
+armoire	armoire		
+cup	cup		
+dresser	dresser		
+			
+#<train>			
+knife	cooker	knife	cooker
+clock	telephone	clock	telephone
+dresser	armoire	dresser	armoire
+sofa	canister	sofa	canister
+bed	computer	bed	computer
+cooker	clock	cooker	clock
+door	clock	door	clock
+bowl	fork	bowl	fork
+refrigerator	telephone	refrigerator	telephone
+armoire	refrigerator	armoire	refrigerator
+fork	desk	fork	desk
+fork	chair	fork	chair
+clock	sofa	clock	sofa
+cooker	armoire	cooker	armoire
+knife	door	knife	door
+computer	spoon	computer	spoon
+door	refrigerator	door	refrigerator
+chair	desk	chair	desk
+cooker	knife	cooker	knife
+desk	bowl	desk	bowl
+refrigerator	canister	refrigerator	canister
+fork	dresser	fork	dresser
+canister	cup	canister	cup
+sofa	fork	sofa	fork
+spoon	door	spoon	door
+door	cooker	door	cooker
+bed	sofa	bed	sofa
+armoire	bed	armoire	bed
+cup	spoon	cup	spoon
+telephone	dresser	telephone	dresser
+cup	armoire	cup	armoire
+bed	dresser	bed	dresser
+bowl	computer	bowl	computer
+desk	refrigerator	desk	refrigerator
+computer	knife	computer	knife
+chair	cooker	chair	cooker
+canister	bowl	canister	bowl
+dresser	telephone	dresser	telephone
+telephone	door	telephone	door
+canister	cup	canister	cup
+sofa	bowl	sofa	bowl
+knife	spoon	knife	spoon
+spoon	cup	spoon	cup
+cup	chair	cup	chair
+dresser	sofa	dresser	sofa
+armoire	fork	armoire	fork
+bowl	bed	bowl	bed
+desk	knife	desk	knife
+telephone	desk	telephone	desk
+computer	bed	computer	bed
+spoon	clock	spoon	clock
+refrigerator	computer	refrigerator	computer
+chair	chair	chair	chair
+clock	canister	clock	canister
+			
+#<test>			
+#<rank>			
+#<single>			
+bed	computer	bed	refrigerator	canister
+chair	clock	chair	armoire	telephone
+bowl	telephone	bowl	spoon	cooker
+fork	dresser	fork	bowl	chair
+door	knife	door	canister	bed
+canister	refrigerator	canister	telephone	dresser
+clock	canister	clock	chair	refrigerator
+computer	fork	computer	cup	sofa
+desk	bowl	desk	door	computer
+refrigerator	door	refrigerator	bed	desk
+sofa	bed	sofa	computer	spoon
+cooker	chair	cooker	fork	knife
+spoon	desk	spoon	clock	door
+telephone	spoon	telephone	dresser	
+knife	cup	knife	sofa	armoire
+armoire	sofa	armoire	knife	cup
+cup	armoire	cup	cooker	bowl
+dresser	cooker	dresser	desk	fork
+
+#<print-results>

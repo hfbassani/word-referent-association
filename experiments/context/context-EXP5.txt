@@ -1,0 +1,181 @@
+#<exp-name>				
+Context-EXP5			
+
+#<map>
+mouse-1	mouse-1			
+mouse-2	mouse-2			
+cat	cat			
+cheese	cheese			
+trap	trap			
+dog	dog			
+snake	snake			
+armoire	armoire			
+keyboard	keyboard			
+computer	computer			
+notebook	notebook			
+monitor	monitor			
+speaker	speaker			
+printer	printer			
+
+#<reset>				
+#<train-context>
+
+computer	speaker	computer	speaker
+monitor	printer	monitor	printer
+monitor	printer	monitor	printer
+printer	computer	printer	computer
+speaker	keyboard	speaker	keyboard
+printer	mouse-2	printer	mouse-2
+mouse-2	notebook	mouse-2	notebook
+keyboard	speaker	keyboard	speaker
+notebook	monitor	notebook	monitor
+mouse-2	notebook	mouse-2	notebook
+monitor	printer	monitor	printer
+speaker	monitor	speaker	monitor
+keyboard	speaker	keyboard	speaker
+mouse-2	notebook	mouse-2	notebook
+computer	monitor	computer	monitor
+keyboard	computer	keyboard	computer
+notebook	keyboard	notebook	keyboard
+printer	mouse-2	printer	mouse-2
+speaker	computer	speaker	computer
+computer	mouse-2	computer	mouse-2
+notebook	keyboard	notebook	keyboard
+
+trap	cat	trap	cat
+armoire	snake	armoire	snake
+cheese	dog	cheese	dog
+mouse-1	cat	mouse-1	cat
+cheese	trap	cheese	trap
+cat	armoire	cat	armoire
+snake	cheese	snake	cheese
+armoire	cheese	armoire	cheese
+trap	mouse-1	trap	mouse-1
+armoire	cat	armoire	cat
+cheese	trap	cheese	trap
+cat	snake	cat	snake
+cat	dog	cat	dog
+dog	trap	dog	trap
+dog	mouse-1	dog	mouse-1
+mouse-1	cheese	mouse-1	cheese
+snake	mouse-1	snake	mouse-1
+dog	armoire	dog	armoire
+snake	armoire	snake	armoire
+mouse-1	snake	mouse-1	snake
+trap	dog	trap	dog
+
+speaker	computer	speaker	computer
+printer	computer	printer	computer
+notebook	keyboard	notebook	keyboard
+mouse-2	notebook	mouse-2	notebook
+computer	speaker	computer	speaker
+notebook	monitor	notebook	monitor
+notebook	keyboard	notebook	keyboard
+computer	mouse-2	computer	mouse-2
+printer	mouse-2	printer	mouse-2
+keyboard	speaker	keyboard	speaker
+computer	monitor	computer	monitor
+mouse-2	notebook	mouse-2	notebook
+mouse-2	notebook	mouse-2	notebook
+monitor	printer	monitor	printer
+speaker	keyboard	speaker	keyboard
+speaker	monitor	speaker	monitor
+keyboard	computer	keyboard	computer
+keyboard	speaker	keyboard	speaker
+printer	mouse-2	printer	mouse-2
+monitor	printer	monitor	printer
+monitor	printer	monitor	printer
+
+mouse-1	cat	mouse-1	cat
+armoire	cat	armoire	cat
+dog	armoire	dog	armoire
+snake	armoire	snake	armoire
+dog	mouse-1	dog	mouse-1
+snake	cheese	snake	cheese
+dog	trap	dog	trap
+trap	cat	trap	cat
+cat	snake	cat	snake
+armoire	snake	armoire	snake
+cat	armoire	cat	armoire
+trap	mouse-1	trap	mouse-1
+armoire	cheese	armoire	cheese
+trap	dog	trap	dog
+mouse-1	cheese	mouse-1	cheese
+cheese	trap	cheese	trap
+cat	dog	cat	dog
+cheese	trap	cheese	trap
+snake	mouse-1	snake	mouse-1
+mouse-1	snake	mouse-1	snake
+cheese	dog	cheese	dog
+
+printer	computer	printer	computer
+monitor	printer	monitor	printer
+computer	monitor	computer	monitor
+computer	mouse-2	computer	mouse-2
+notebook	monitor	notebook	monitor
+printer	mouse-2	printer	mouse-2
+speaker	computer	speaker	computer
+keyboard	computer	keyboard	computer
+computer	speaker	computer	speaker
+keyboard	speaker	keyboard	speaker
+speaker	keyboard	speaker	keyboard
+keyboard	speaker	keyboard	speaker
+printer	mouse-2	printer	mouse-2
+notebook	keyboard	notebook	keyboard
+mouse-2	notebook	mouse-2	notebook
+mouse-2	notebook	mouse-2	notebook
+speaker	monitor	speaker	monitor
+notebook	keyboard	notebook	keyboard
+mouse-2	notebook	mouse-2	notebook
+monitor	printer	monitor	printer
+monitor	printer	monitor	printer
+
+dog	armoire	dog	armoire
+armoire	snake	armoire	snake
+cat	snake	cat	snake
+dog	mouse-1	dog	mouse-1
+trap	cat	trap	cat
+trap	mouse-1	trap	mouse-1
+cat	armoire	cat	armoire
+mouse-1	cheese	mouse-1	cheese
+mouse-1	cat	mouse-1	cat
+snake	mouse-1	snake	mouse-1
+cat	dog	cat	dog
+trap	dog	trap	dog
+snake	armoire	snake	armoire
+snake	cheese	snake	cheese
+armoire	cheese	armoire	cheese
+armoire	cat	armoire	cat
+cheese	trap	cheese	trap
+dog	trap	dog	trap
+mouse-1	snake	mouse-1	snake
+cheese	dog	cheese	dog
+cheese	trap	cheese	trap
+
+#<test>				
+#<rank>				
+#<single>
+#<interest-word>
+*
+
+#<print>
+six-words test:
+
+keyboard	keyboard	speaker	notebook	monitor
+computer	computer	keyboard	monitor	speaker
+notebook	notebook	computer	speaker	keyboard
+monitor	monitor	notebook	keyboard	computer
+speaker	speaker	monitor	computer	notebook
+printer	printer	keyboard	monitor	speaker
+mouse-2	mouse-2	mouse-1	keyboard	speaker
+
+cat	cat	dog	cheese	snake
+cheese	cheese	snake	dog	trap
+trap	trap	cheese	cat	armoire
+dog	dog	trap	armoire	cat
+snake	snake	armoire	trap	dog
+armoire	armoire	cat	snake	cheese
+mouse-1	mouse-1	mouse-2	cat	dog
+
+#<print-results>
+

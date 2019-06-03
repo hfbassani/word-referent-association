@@ -1,0 +1,266 @@
+#<exp-name>				
+Context-1Word			
+
+#<map>				
+mouse-1	mouse-1			
+mouse-2	mouse-2			
+cat	cat			
+cheese	cheese			
+trap	trap			
+dog	dog			
+snake	snake			
+armoire	armoire			
+keyboard	keyboard			
+computer	computer			
+notebook	notebook			
+monitor	monitor			
+speaker	speaker			
+printer	printer			
+				
+#<reset>				
+#<train-context>				
+notebook	monitor	notebook	monitor	
+speaker	keyboard	speaker	keyboard	
+mouse-2	notebook	mouse-2	notebook	
+monitor	printer	monitor	printer	
+computer	mouse-2	computer	mouse-2	
+keyboard	speaker	keyboard	speaker	
+printer	computer	printer	computer	
+				
+mouse-2	notebook	mouse-2	notebook	
+keyboard	computer	keyboard	computer	
+notebook	keyboard	notebook	keyboard	
+monitor	printer	monitor	printer	
+speaker	monitor	speaker	monitor	
+printer	mouse-2	printer	mouse-2	
+computer	speaker	computer	speaker	
+				
+keyboard	speaker	keyboard	speaker	
+monitor	printer	monitor	printer	
+computer	monitor	computer	monitor	
+speaker	computer	speaker	computer	
+mouse-2	notebook	mouse-2	notebook	
+notebook	keyboard	notebook	keyboard
+printer	mouse-2	printer	mouse-2	
+
+cat	snake	cat	snake	
+mouse-1	cat	mouse-1	cat	
+armoire	cheese	armoire	cheese	
+cheese	trap	cheese	trap	
+snake	armoire	snake	armoire	
+trap	dog	trap	dog	
+dog	mouse-1	dog	mouse-1	
+				
+cheese	dog	cheese	dog	
+trap	cat	trap	cat	
+cat	armoire	cat	armoire	
+dog	trap	dog	trap	
+mouse-1	cheese	mouse-1	cheese	
+armoire	snake	armoire	snake	
+snake	mouse-1	snake	mouse-1	
+				
+dog	armoire	dog	armoire	
+trap	mouse-1	trap	mouse-1	
+armoire	cat	armoire	cat	
+cat	dog	cat	dog	
+snake	cheese	snake	cheese	
+mouse-1	snake	mouse-1	snake	
+cheese	trap	cheese	trap	
+		
+#<test>				
+#<rank>				
+#<single>
+#<interest-word>
+mouse
+
+#<print>
+six-words test:
+
+keyboard	keyboard	speaker	notebook	monitor
+mouse-2	mouse-2	mouse-1	keyboard	speaker
+
+cat	cat	dog	cheese	snake
+mouse-1	mouse-1	mouse-2	cat	dog
+
+#<print-results>
+
+#<exp-name>				
+Context-2Word		
+
+#<map>				
+mouse-1	mouse-1			
+mouse-2	mouse-2			
+cat	cat			
+cheese	cheese			
+trap	trap			
+dog	dog			
+snake	snake			
+armoire	armoire			
+keyboard	keyboard			
+computer	computer			
+notebook	notebook			
+monitor	monitor			
+speaker	speaker			
+printer	printer			
+				
+#<reset>				
+#<train-context>				
+notebook	monitor	notebook	monitor	
+speaker	keyboard	speaker	keyboard	
+mouse-2	notebook	mouse-2	notebook	
+monitor	printer	monitor	printer	
+computer	mouse-2	computer	mouse-2	
+keyboard	speaker	keyboard	speaker	
+printer	computer	printer	computer	
+				
+mouse-2	notebook	mouse-2	notebook	
+keyboard	computer	keyboard	computer	
+notebook	keyboard	notebook	keyboard	
+monitor	printer	monitor	printer	
+speaker	monitor	speaker	monitor	
+printer	mouse-2	printer	mouse-2	
+computer	speaker	computer	speaker	
+				
+keyboard	speaker	keyboard	speaker	
+monitor	printer	monitor	printer	
+computer	monitor	computer	monitor	
+speaker	computer	speaker	computer	
+mouse-2	notebook	mouse-2	notebook	
+notebook	keyboard	notebook	keyboard
+printer	mouse-2	printer	mouse-2	
+
+cat	snake	cat	snake	
+mouse-1	cat	mouse-1	cat	
+armoire	cheese	armoire	cheese	
+cheese	trap	cheese	trap	
+snake	armoire	snake	armoire	
+trap	dog	trap	dog	
+dog	mouse-1	dog	mouse-1	
+				
+cheese	dog	cheese	dog	
+trap	cat	trap	cat	
+cat	armoire	cat	armoire	
+dog	trap	dog	trap	
+mouse-1	cheese	mouse-1	cheese	
+armoire	snake	armoire	snake	
+snake	mouse-1	snake	mouse-1	
+				
+dog	armoire	dog	armoire	
+trap	mouse-1	trap	mouse-1	
+armoire	cat	armoire	cat	
+cat	dog	cat	dog	
+snake	cheese	snake	cheese	
+mouse-1	snake	mouse-1	snake	
+cheese	trap	cheese	trap	
+		
+#<test>				
+#<rank>				
+#<single>
+#<interest-word>
+mouse
+
+#<print>
+six-words test:
+
+keyboard	keyboard	speaker	notebook	monitor
+computer	computer	keyboard	monitor	speaker
+mouse-2	mouse-2	mouse-1	keyboard	speaker
+
+cat	cat	dog	cheese	snake
+cheese	cheese	snake	dog	trap
+mouse-1	mouse-1	mouse-2	cat	dog
+
+#<print-results>
+
+#<exp-name>				
+Context-4Word			
+
+#<map>				
+mouse-1	mouse-1			
+mouse-2	mouse-2			
+cat	cat			
+cheese	cheese			
+trap	trap			
+dog	dog			
+snake	snake			
+armoire	armoire			
+keyboard	keyboard			
+computer	computer			
+notebook	notebook			
+monitor	monitor			
+speaker	speaker			
+printer	printer			
+				
+#<reset>				
+#<train-context>				
+notebook	monitor	notebook	monitor	
+speaker	keyboard	speaker	keyboard	
+mouse-2	notebook	mouse-2	notebook	
+monitor	printer	monitor	printer	
+computer	mouse-2	computer	mouse-2	
+keyboard	speaker	keyboard	speaker	
+printer	computer	printer	computer	
+				
+mouse-2	notebook	mouse-2	notebook	
+keyboard	computer	keyboard	computer	
+notebook	keyboard	notebook	keyboard	
+monitor	printer	monitor	printer	
+speaker	monitor	speaker	monitor	
+printer	mouse-2	printer	mouse-2	
+computer	speaker	computer	speaker	
+				
+keyboard	speaker	keyboard	speaker	
+monitor	printer	monitor	printer	
+computer	monitor	computer	monitor	
+speaker	computer	speaker	computer	
+mouse-2	notebook	mouse-2	notebook	
+notebook	keyboard	notebook	keyboard
+printer	mouse-2	printer	mouse-2	
+
+cat	snake	cat	snake	
+mouse-1	cat	mouse-1	cat	
+armoire	cheese	armoire	cheese	
+cheese	trap	cheese	trap	
+snake	armoire	snake	armoire	
+trap	dog	trap	dog	
+dog	mouse-1	dog	mouse-1	
+				
+cheese	dog	cheese	dog	
+trap	cat	trap	cat	
+cat	armoire	cat	armoire	
+dog	trap	dog	trap	
+mouse-1	cheese	mouse-1	cheese	
+armoire	snake	armoire	snake	
+snake	mouse-1	snake	mouse-1	
+				
+dog	armoire	dog	armoire	
+trap	mouse-1	trap	mouse-1	
+armoire	cat	armoire	cat	
+cat	dog	cat	dog	
+snake	cheese	snake	cheese	
+mouse-1	snake	mouse-1	snake	
+cheese	trap	cheese	trap	
+		
+#<test>				
+#<rank>				
+#<single>
+#<interest-word>
+mouse
+
+#<print>
+six-words test:
+
+keyboard	keyboard	speaker	notebook	monitor
+computer	computer	keyboard	monitor	speaker
+notebook	notebook	computer	speaker	keyboard
+monitor	monitor	notebook	keyboard	computer
+mouse-2	mouse-2	mouse-1	keyboard	speaker
+
+cat	cat	dog	cheese	snake
+cheese	cheese	snake	dog	trap
+trap	trap	cheese	cat	armoire
+dog	dog	trap	armoire	cat
+mouse-1	mouse-1	mouse-2	cat	dog
+
+#<print-results>
+
