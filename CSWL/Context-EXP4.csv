@@ -1,0 +1,119 @@
+Experiment: Context-EXP4
+notebook monitor 	
+notebook monitor 	
+speaker keyboard 	
+speaker keyboard 	
+mouse notebook 	
+mouse notebook 	
+monitor printer 	
+monitor printer 	
+computer mouse 	
+computer mouse 	
+keyboard speaker 	
+keyboard speaker 	
+printer computer 	
+printer computer 	
+mouse notebook 	
+mouse notebook 	
+keyboard computer 	
+keyboard computer 	
+notebook keyboard 	
+notebook keyboard 	
+monitor printer 	
+monitor printer 	
+speaker monitor 	
+speaker monitor 	
+printer mouse 	
+printer mouse 	
+computer speaker 	
+computer speaker 	
+keyboard speaker 	
+keyboard speaker 	
+monitor printer 	
+monitor printer 	
+computer monitor 	
+computer monitor 	
+speaker computer 	
+speaker computer 	
+mouse notebook 	
+mouse notebook 	
+notebook keyboard 	
+notebook keyboard 	
+printer mouse 	
+printer mouse 	
+cat snake 	
+cat snake 	
+mouse cat 	
+mouse cat 	
+armoire cheese 	
+armoire cheese 	
+cheese trap 	
+cheese trap 	
+snake armoire 	
+snake armoire 	
+trap dog 	
+trap dog 	
+dog mouse 	
+dog mouse 	
+cheese dog 	
+cheese dog 	
+trap cat 	
+trap cat 	
+cat armoire 	
+cat armoire 	
+dog trap 	
+dog trap 	
+mouse cheese 	
+mouse cheese 	
+armoire snake 	
+armoire snake 	
+snake mouse 	
+snake mouse 	
+dog armoire 	
+dog armoire 	
+trap mouse 	
+trap mouse 	
+armoire cat 	
+armoire cat 	
+cat dog 	
+cat dog 	
+snake cheese 	
+snake cheese 	
+mouse snake 	
+mouse snake 	
+cheese trap 	
+cheese trap 	
+six-words test:
+
+mouse-2 -N:	Ctxt	a	v_act	a_act	c_act	v_ds	a_ds	c_ds
+7-mouse-2 	J-21:	0.99962	0.99999	0.99871	0.99977	0.51197	0.48143	0.50135
+1-speaker 	J-21:	0.99949	1.00000	0.99779	0.99982	0.54139	0.44228	0.50158
+11-mouse-1 	J-21:	0.99949	0.99999	0.99874	0.99947	0.52243	0.44857	0.50961
+2-keyboard	J-21:	0.99943	0.99999	0.99783	0.99971	0.52112	0.45089	0.50944
+
+
+mouse-2 -N:	Ctxt	a	v_act	a_act	c_act	v_ds	a_ds	c_ds
+7-mouse-2 	J-21:	0.99957	0.99999	0.99871	0.99968	0.51197	0.48143	0.50135
+2-keyboard	J-21:	0.99946	0.99999	0.99783	0.99978	0.52112	0.45089	0.50944
+1-speaker 	J-21:	0.99946	1.00000	0.99779	0.99976	0.54139	0.44228	0.50158
+11-mouse-1 	J-21:	0.99927	0.99999	0.99874	0.99905	0.52243	0.44857	0.50961
+
+
+mouse-1 -N:	Ctxt	a	v_act	a_act	c_act	v_ds	a_ds	c_ds
+11-mouse-1 	J-35:	0.99968	0.99999	0.99874	0.99986	0.52243	0.44857	0.50961
+10-cat     	J-35:	0.99962	1.00000	0.99829	0.99992	0.52666	0.46008	0.50222
+7-mouse-2 	J-35:	0.99949	0.99999	0.99871	0.99951	0.51197	0.48143	0.50135
+18-dog     	J-35:	0.99947	0.99999	0.99749	0.99990	0.52545	0.44329	0.51022
+
+
+mouse-1 -N:	Ctxt	a	v_act	a_act	c_act	v_ds	a_ds	c_ds
+11-mouse-1 	J-35:	0.99968	0.99999	0.99874	0.99986	0.52243	0.44857	0.50961
+10-cat     	J-35:	0.99947	1.00000	0.99829	0.99963	0.52666	0.46008	0.50222
+18-dog     	J-35:	0.99942	0.99999	0.99749	0.99981	0.52545	0.44329	0.51022
+7-mouse-2 	J-35:	0.99930	0.99999	0.99871	0.99915	0.51197	0.48143	0.50135
+
+
+Context-EXP4:
+Single: 22.00000/28:	0.78571
+Total nodes: 26
+Total contexts: 73

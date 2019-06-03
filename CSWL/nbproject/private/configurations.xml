@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="89">
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="1">
+      <toolsSet>
+        <developmentServer>localhost</developmentServer>
+        <platform>2</platform>
+      </toolsSet>
+      <dbx_gdbdebugger version="1">
+        <gdb_pathmaps>
+        </gdb_pathmaps>
+        <gdb_interceptlist>
+          <gdbinterceptoptions gdb_all="false" gdb_unhandled="true" gdb_unexpected="true"/>
+        </gdb_interceptlist>
+        <gdb_options>
+          <DebugOptions>
+          </DebugOptions>
+        </gdb_options>
+        <gdb_buildfirst gdb_buildfirst_overriden="false" gdb_buildfirst_old="false"/>
+      </dbx_gdbdebugger>
+      <nativedebugger version="1">
+        <engine>gdb</engine>
+      </nativedebugger>
+      <runprofile version="9">
+        <runcommandpicklist>
+          <runcommandpicklistitem>"${OUTPUT_PATH}" "${OUTPUT_PATH}" -L 0 -k 48 -c/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/context/context-1Word.txt -a/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/data/words-train.txt.cbk -u/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/data/images.arff.cbk -d/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/data/arffs/</runcommandpicklistitem>
+          <runcommandpicklistitem>"${OUTPUT_PATH}" "${OUTPUT_PATH}" -L 0 -k 48 -c/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/context/context-Words.txt -a/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/data/words-train.txt.cbk -u/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/data/images.arff.cbk -d/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/data/arffs/</runcommandpicklistitem>
+          <runcommandpicklistitem>"${OUTPUT_PATH}" "${OUTPUT_PATH}" -L 0 -k 48 -c/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/context/context-Words-V2.txt -a/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/data/words-train.txt.cbk -u/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/data/images.arff.cbk -d/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/data/arffs/</runcommandpicklistitem>
+          <runcommandpicklistitem>"${OUTPUT_PATH}" "${OUTPUT_PATH}" -L 0 -k 1 -c/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/context/context-Words-V2.txt -a/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/data/words-train.txt.cbk -u/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/data/images.arff.cbk -d/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/data/arffs/</runcommandpicklistitem>
+          <runcommandpicklistitem>"${OUTPUT_PATH}" "${OUTPUT_PATH}" -L 0 -k 1 -c/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/context/context-6Words.txt -a/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/data/words-train.txt.cbk -u/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/data/images.arff.cbk -d/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/data/arffs/</runcommandpicklistitem>
+          <runcommandpicklistitem>"${OUTPUT_PATH}" "${OUTPUT_PATH}" -L 0 -k 1 -c/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/context/Trueswell2013-Context-Exp1-V2.txt -a/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/data/words-train.txt.cbk -u/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/data/images.arff.cbk -d/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/data/arffs/</runcommandpicklistitem>
+          <runcommandpicklistitem>"${OUTPUT_PATH}" "${OUTPUT_PATH}" -L 0 -k 50 -c/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/context/Trueswell2013-Context-Exp1-V2.txt -a/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/data/words-train.txt.cbk -u/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/data/images.arff.cbk -d/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/data/arffs/</runcommandpicklistitem>
+          <runcommandpicklistitem>"${OUTPUT_PATH}" "${OUTPUT_PATH}" -L 0 -k 50 -c/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/context/Trueswell2013-Context-Exp1.txt -a/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/data/words-train.txt.cbk -u/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/data/images.arff.cbk -d/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/data/arffs/</runcommandpicklistitem>
+          <runcommandpicklistitem>"${OUTPUT_PATH}" "${OUTPUT_PATH}" -L 0 -k 50 -c/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/context/TestContext.txt -a/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/data/words-train.txt.cbk -u/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/data/images.arff.cbk -d/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/data/arffs/</runcommandpicklistitem>
+          <runcommandpicklistitem>"${OUTPUT_PATH}" "${OUTPUT_PATH}" -L 0 -k 1 -c/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/context/TestContext.txt -a/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/data/words-train.txt.cbk -u/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/data/images.arff.cbk -d/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/data/arffs/</runcommandpicklistitem>
+        </runcommandpicklist>
+        <runcommand>"${OUTPUT_PATH}" "${OUTPUT_PATH}" -L 0 -k 1 -c/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/context/TestContext.txt -a/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/data/words-train.txt.cbk -u/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/data/images.arff.cbk -d/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/data/arffs/</runcommand>
+        <rundir></rundir>
+        <buildfirst>true</buildfirst>
+        <terminal-type>0</terminal-type>
+        <remove-instrumentation>0</remove-instrumentation>
+        <environment>
+        </environment>
+      </runprofile>
+    </conf>
+    <conf name="Release" type="1">
+      <toolsSet>
+        <developmentServer>localhost</developmentServer>
+        <platform>2</platform>
+      </toolsSet>
+      <dbx_gdbdebugger version="1">
+        <gdb_pathmaps>
+        </gdb_pathmaps>
+        <gdb_interceptlist>
+          <gdbinterceptoptions gdb_all="false" gdb_unhandled="true" gdb_unexpected="true"/>
+        </gdb_interceptlist>
+        <gdb_options>
+          <DebugOptions>
+          </DebugOptions>
+        </gdb_options>
+        <gdb_buildfirst gdb_buildfirst_overriden="false" gdb_buildfirst_old="false"/>
+      </dbx_gdbdebugger>
+      <nativedebugger version="1">
+        <engine>gdb</engine>
+      </nativedebugger>
+      <runprofile version="9">
+        <runcommandpicklist>
+          <runcommandpicklistitem>"${OUTPUT_PATH}" "${OUTPUT_PATH}" -L 0 -k 60 -c/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/context/Trueswell2013-Context-Exp2.txt -a/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/data/words-train.txt.cbk -u/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/data/images.arff.cbk -d/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/data/arffs/</runcommandpicklistitem>
+          <runcommandpicklistitem>"${OUTPUT_PATH}" "${OUTPUT_PATH}" -L 0 -k 60 -c/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/context/Trueswell2013-Context-Exp1-V2.txt -a/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/data/words-train.txt.cbk -u/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/data/images.arff.cbk -d/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/data/arffs/</runcommandpicklistitem>
+          <runcommandpicklistitem>"${OUTPUT_PATH}" "${OUTPUT_PATH}" -L 500 -k 30 -c/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/context/Context-All.txt -a/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/data/words-train.txt.cbk -u/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/data/images.arff.cbk -d/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/data/arffs/</runcommandpicklistitem>
+          <runcommandpicklistitem>"${OUTPUT_PATH}" "${OUTPUT_PATH}" -L 500 -k 30 -c/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/context/All-Context.txt -a/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/data/words-train.txt.cbk -u/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/data/images.arff.cbk -d/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/data/arffs/</runcommandpicklistitem>
+          <runcommandpicklistitem>"${OUTPUT_PATH}" "${OUTPUT_PATH}" -L 200 -k 30 -c/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/context/All-Context.txt -a/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/data/words-train.txt.cbk -u/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/data/images.arff.cbk -d/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/data/arffs/</runcommandpicklistitem>
+          <runcommandpicklistitem>"${OUTPUT_PATH}" "${OUTPUT_PATH}" -L 200 -k 30 -c/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/context/context-Exp4.txt -a/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/data/words-train.txt.cbk -u/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/data/images.arff.cbk -d/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/data/arffs/</runcommandpicklistitem>
+          <runcommandpicklistitem>"${OUTPUT_PATH}" "${OUTPUT_PATH}" -L 0 -k 2 -c/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/context/context-Exp4.txt -a/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/data/words-train.txt.cbk -u/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/data/images.arff.cbk -d/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/data/arffs/</runcommandpicklistitem>
+          <runcommandpicklistitem>"${OUTPUT_PATH}" "${OUTPUT_PATH}" -L 0 -k 84 -c/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/context/context-Exp4-V2.txt -a/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/data/words-train.txt.cbk -u/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/data/images.arff.cbk -d/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/data/arffs/</runcommandpicklistitem>
+          <runcommandpicklistitem>"${OUTPUT_PATH}" "${OUTPUT_PATH}" -L 0 -k 84 -c/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/context/context-Words-V2.txt -a/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/data/words-train.txt.cbk -u/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/data/images.arff.cbk -d/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/data/arffs/</runcommandpicklistitem>
+          <runcommandpicklistitem>"${OUTPUT_PATH}" "${OUTPUT_PATH}" -L 0 -k 48 -c/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/context/context-Words-V2.txt -a/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/data/words-train.txt.cbk -u/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/data/images.arff.cbk -d/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/data/arffs/</runcommandpicklistitem>
+        </runcommandpicklist>
+        <runcommand>"${OUTPUT_PATH}" "${OUTPUT_PATH}" -L 0 -k 48 -c/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/context/context-Words-V2.txt -a/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/data/words-train.txt.cbk -u/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/data/images.arff.cbk -d/home/hans/Dropbox/Doutorado/Projetos/Data/houseobjects/CSWL/data/arffs/</runcommand>
+        <rundir></rundir>
+        <buildfirst>true</buildfirst>
+        <terminal-type>0</terminal-type>
+        <remove-instrumentation>0</remove-instrumentation>
+        <environment>
+        </environment>
+      </runprofile>
+    </conf>
+  </confs>
+</configurationDescriptor>
